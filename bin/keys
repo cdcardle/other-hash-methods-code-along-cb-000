@@ -8,5 +8,6 @@ groceries = {
 }
 get_the_keys(array)
   array.keys
-  end
+end
+
 puts get_the_keys(groceries)
