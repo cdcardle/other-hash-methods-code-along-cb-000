@@ -6,8 +6,5 @@ groceries = {
   meat: ["chicken", "steak", "salmon"],
   grains: ["rice", "pasta"]
 }
-get_the_keys(array)
-  array.keys
-end
 
 puts get_the_keys(groceries)
